@@ -9,7 +9,7 @@ docs:
       - title: Attention and Consciousness
         url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness.html
       - title: Memory
-        url: https://ninaburns.github.io/PSYC341OER/_pages/memory.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/memory.md
       - title: Learning and Expertise
         url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise.html
       - title: Metacognition
@@ -115,7 +115,7 @@ memorynav:
   - title: Home
     url: https://ninaburns.github.io/PSYC341OER/
   - title: Memory
-    url: https://ninaburns.github.io/PSYC341OER/_pages/memory.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/memory.md
     children:
       - title: Memory Biases
         url: https://ninaburns.github.io/PSYC341OER/_pages/memory/memorybiases.html
