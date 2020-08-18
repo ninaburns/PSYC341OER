@@ -1,262 +1,262 @@
 docs:
   - title: Contents
-    url: https://umdoer.github.io/PSYC341OER/#contents
+    url: https://ninaburns.github.io/PSYC341OER/#contents
     children:
       - title: Introduction, Methods, and History
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Sensation and Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception.html
       - title: Attention and Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness.html
       - title: Memory
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/memory.html
       - title: Learning and Expertise
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise.html
       - title: Metacognition
-        url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/metacognition.html
       - title: Language
-        url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language.html
       - title: Decision Making
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/decisionmaking.html
       - title: Problem Solving and Creativity
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/problemsolving-creativity.html
       - title: Cognitive Development and Aging
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/cogdev-aging.html
       - title: Emotion
-        url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/emotion.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 intronav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Introduction, Methods, and History
     children:
       - title: What is Cognitive Psychology?
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/introduction.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/introduction.html
       - title: Statistical Thinking
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/statisticalthinking.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/statisticalthinking.html
       - title: Replication Crisis
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/replicationcrisis.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/replicationcrisis.html
       - title: Research Designs
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/researchdesigns.html
       - title: Thinking Like a Psychological Scientist
-        url: https://umdoer.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/intro-methods/thinkinglikeapsychscientist.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#introduction-methods-and-history
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#introduction-methods-and-history
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#introduction-methods-and-history
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#introduction-methods-and-history
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 senpernav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Sensation and Perception
-    url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception.html
     children:
       - title: Vision
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vision.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/vision.html
       - title: Hearing
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/hearing.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/hearing.html
       - title: Touch and Pain
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/touch-pain.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/touch-pain.html
       - title: Taste and Smell
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/taste-smell.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/taste-smell.html
       - title: The Vestibular System
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/vestibular.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/vestibular.html
       - title: Multi-model Perception
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/multimodalperception.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/multimodalperception.html
       - title: Mental Imagery
-        url: https://umdoer.github.io/PSYC341OER/_pages/sensation-perception/mentalimagery.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/sensation-perception/mentalimagery.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#sensation-and-perception
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#sensation-and-perception
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#sensation-and-perception
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 attconnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Attention and Consciousness
-    url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness.html
     children:
       - title: Attention Processes
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness/attentionprocesses.html
       - title: Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/consciousness.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness/consciousness.html
       - title: Unconsciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/unconsciousness.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness/unconsciousness.html
       - title: States of Consciousness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/statesofconsciousness.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness/statesofconsciousness.html
       - title: Inattentional Blindness
-        url: https://umdoer.github.io/PSYC341OER/_pages/attention-consciousness/inattentionalblindness.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/attention-consciousness/inattentionalblindness.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#attention-and-consciousness
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#attention-and-consciousness
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#attention-and-consciousness
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#attention-and-consciousness
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 memorynav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Memory
-    url: https://umdoer.github.io/PSYC341OER/_pages/memory.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/memory.html
     children:
       - title: Memory Biases
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/memorybiases.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/memory/memorybiases.html
       - title: Forgetting
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/forgetting.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/memory/forgetting.html
       - title: Categories and Concepts
-        url: https://umdoer.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/memory/categoriesandconcepts.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#memory
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#memory
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#memory
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#memory
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 learningnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Learning and Expertise
-    url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise.html
     children:
       - title: Priming and Conditioning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/priming.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/priming.html
       - title: Learning
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/learning.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/learning.html
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#learning-and-expertise
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#learning-and-expertise
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#learning-and-expertise
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#learning-and-expertise
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 metacognav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Metacognition
-    url: https://umdoer.github.io/PSYC341OER/_pages/metacognition.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/metacognition.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#metacognition
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#metacognition
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#metacognition
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#metacognition
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 langnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Language
-    url: https://umdoer.github.io/PSYC341OER/_pages/language.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/language.html
     children:
       - title: Theories of Language
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/theoriesoflang.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language/theoriesoflang.html
       - title: Language Acquisition
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/langacq.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language/langacq.html
       - title: Production
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/production.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language/production.html
       - title: Comprehension
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/comprehension.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language/comprehension.html
       - title: Bilingualism
-        url: https://umdoer.github.io/PSYC341OER/_pages/language/bilingualism.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/language/bilingualism.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#language
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#language
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#language
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#language
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
 
 decnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Decision Making
-    url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/decisionmaking.html
     children:
       - title: Motivation and the Reward System
-        url: https://umdoer.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/decisionmaking/motivation.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#decision-making
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#decision-making
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#decision-making
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#decision-making
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 probnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Problem Solving and Creativity
-    url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/problemsolving-creativity.html
     children:
       - title: Intelligence
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/problemsolving-creativity/intelligence.html
       - title: Creativity
-        url: https://umdoer.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/problemsolving-creativity/creativity.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#problem-solving-and-creativity
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#problem-solving-and-creativity
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#problem-solving-and-creativity
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#problem-solving-and-creativity
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 cogdevnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Cognitive Development and Aging
-    url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/cogdev-aging.html
     children:
       - title: Cognitive Development
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/cogdev-aging/cognitivedevelopment.html
       - title: Aging
-        url: https://umdoer.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/cogdev-aging/aging.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#cognitive-development-and-aging
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#cognitive-development-and-aging
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#cognitive-development-and-aging
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#cognitive-development-and-aging
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
         
 emotionnav:
   - title: Home
-    url: https://umdoer.github.io/PSYC341OER/
+    url: https://ninaburns.github.io/PSYC341OER/
   - title: Emotion
-    url: https://umdoer.github.io/PSYC341OER/_pages/emotion.html
+    url: https://ninaburns.github.io/PSYC341OER/_pages/emotion.html
   - title: Resources
     children:
       - title: Interactive Media
-        url: https://umdoer.github.io/PSYC341OER/_pages/interactivemedia.html#emotion
+        url: https://ninaburns.github.io/PSYC341OER/_pages/interactivemedia.html#emotion
       - title: Relevant Studies
-        url: https://umdoer.github.io/PSYC341OER/_pages/studies.html#emotion
+        url: https://ninaburns.github.io/PSYC341OER/_pages/studies.html#emotion
       - title: How to Study
-        url: https://umdoer.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
+        url: https://ninaburns.github.io/PSYC341OER/_pages/learning-expertise/howtostudy.html
