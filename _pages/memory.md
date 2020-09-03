@@ -7,8 +7,6 @@ sidebar:
 
 <img src="https://ninaburns.github.io/PSYC341OER/assets/images/ssp1.jpg">
 
-#<iframe src="https://www.youtube.com/watch?v=P_zonCn16eQ" width="560" height="315" frameborder="0"> </iframe>
-
 <iframe src="https://www.youtube.com/watch?v=MU9sobaVx6I" width="560" height="315" frameborder="0"> </iframe>
 
 
