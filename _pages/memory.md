@@ -8,7 +8,7 @@ sidebar:
 <img src="https://ninaburns.github.io/PSYC341OER/assets/images/ssp1.jpg">
 
 <video width="320" height="240" controls>
-      <source src=”http://techslides.com/demos/sample-videos/small.ogv” type=video/ogg>
+      <source src=”https://techslides.com/demos/sample-videos/small.ogv” type=video/ogg>
 </video>
 
 “Memory” is a single term that reflects a number of different abilities: holding information briefly while working with it (working memory), remembering episodes of one’s life (episodic memory), and our general knowledge of facts of the world (semantic memory), among other types. Remembering episodes involves three processes: encoding information (learning it, by perceiving it and relating it to past knowledge), storing it (maintaining it over time), and then retrieving it (accessing the information when needed). Failures can occur at any stage, leading to forgetting or to having false memories. The key to improving one’s memory is to improve processes of encoding and to use techniques that guarantee effective retrieval. Good encoding techniques include relating new information to what one already knows, forming mental images, and creating associations among information that needs to be remembered. The key to good retrieval is developing effective cues that will lead the rememberer back to the encoded information. Classic mnemonic systems, known since the time of the ancient Greeks and still used by some today, can greatly improve one’s memory abilities.
